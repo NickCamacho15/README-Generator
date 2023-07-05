@@ -1,4 +1,9 @@
 # README-Generator
+
+## Screencastify Link
+https://drive.google.com/file/d/1DAeOIPQz4wTjCKr37gitOOkIESRaO7gl/view
+
+
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
@@ -15,7 +20,7 @@ A README generator in the command line using Node.js
 * [Questions](#questions)
 
 ## Installation
-install npm inquirer
+Install npm inquirer
 
 ## Usage
 Run "Node index.js" in the terminal
